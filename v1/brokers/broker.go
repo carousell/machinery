@@ -3,10 +3,10 @@ package brokers
 import (
 	"errors"
 
-	"github.com/RichardKnop/machinery/v1/config"
-	"github.com/RichardKnop/machinery/v1/log"
-	"github.com/RichardKnop/machinery/v1/retry"
-	"github.com/RichardKnop/machinery/v1/tasks"
+	"github.com/carousell/machinery/v1/config"
+	"github.com/carousell/machinery/v1/log"
+	"github.com/carousell/machinery/v1/retry"
+	"github.com/carousell/machinery/v1/tasks"
 )
 
 // Broker represents a base broker structure

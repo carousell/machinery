@@ -4,9 +4,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/RichardKnop/machinery/v1/backends"
-	"github.com/RichardKnop/machinery/v1/config"
-	"github.com/RichardKnop/machinery/v1/tasks"
+	"github.com/carousell/machinery/v1/backends"
+	"github.com/carousell/machinery/v1/config"
+	"github.com/carousell/machinery/v1/tasks"
 	"github.com/stretchr/testify/assert"
 )
 
